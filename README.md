@@ -1,16 +1,22 @@
-## Hi there 👋
+My name is Shane, I'm an incoming BSIT student at Bulacan State University in the Philippines 🇵🇭.
 
-<!--
-**shnflrsc/shnflrsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📘 Currently Learning
+- 📚 Data Structures & Algorithms  
+- ☕ Object-Oriented Programming (Java)  
+- 🧠 Design Patterns & Principles  
+- 🛠️ Backend Development (Spring Boot)  
+- 🌐 Frontend Development (React)
 
-Here are some ideas to get you started:
+### ✨ Interests
+- 🐧 Daily-driving Linux distros ([Zorin OS](https://zorin.com/os/) / [Arch Linux](https://archlinux.org/))  
+- 🗂️ Note-taking & knowledge systems (Zettelkasten)  
+- 🧳 Minimalist, privacy-conscious mindset  
+- 🧙 Building character archetypes in Skyrim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+
+- [**HADRIAN**](https://github.com/shnflrsc/HADRIAN)  🖥️ Bash script for installing Pantheon DE on Arch Linux
+
+- [**HotelPosSystem**](https://github.com/shnflrsc/HotelPosSystem) 🏨 WIP Java-based hotel point-of-sale system
+
+- [**sustainablecityproject**](https://github.com/shnflrsc/sustainablecityproject) 🌱 Environmental awareness site using SvelteKit (high school project)
