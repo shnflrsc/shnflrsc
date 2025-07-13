@@ -17,6 +17,7 @@ My name is Shane, I'm an incoming BSIT student at Bulacan State University in th
 
 - [**HADRIAN**](https://github.com/shnflrsc/HADRIAN)  🖥️ Bash script for installing Pantheon DE on Arch Linux
 
-- [**HotelPosSystem**](https://github.com/shnflrsc/HotelPosSystem) 🏨 WIP Java-based hotel point-of-sale system
+- [**HotelPosSystem**](https://github.com/shnflrsc/HotelPosSystem) 🏨 Bare-bones terminal-based Java-based hotel point-of-sale system
 
 - [**sustainablecityproject**](https://github.com/shnflrsc/sustainablecityproject) 🌱 Environmental awareness site using SvelteKit (high school project)
+- [**chimer-frontend**](https://github.com/shnflrsc/chimer-frontend), [**chimer-backend**](https://github.com/shnflrsc/chimer-backend) 🐲 WIP Skyrim character build creator using Spring Boot and React
