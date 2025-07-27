@@ -1,11 +1,10 @@
 My name is Shane, I'm an incoming BSIT student at Bulacan State University in the Philippines 🇵🇭.
 
 ### Currently Learning
-- Data Structures & Algorithms  
 - Object-Oriented Programming (Java)  
-- Design Patterns & Principles  
 - Backend Development (Spring Boot)  
 - Frontend Development (React)
+- Design Patterns & Principles  
 
 ### Interests
 - Linux ([Zorin OS](https://zorin.com/os/) / [Arch Linux](https://archlinux.org/))  
