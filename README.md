@@ -1,15 +1,15 @@
 My name is Shane, I'm an incoming BSIT student at Bulacan State University in the Philippines 🇵🇭.
 
 ### Currently Learning
-- Object-Oriented Programming (Java)  
-- Backend Development (Spring Boot)  
+- Object-Oriented Programming (Java)
+- Java Swing GUI Development
+- Backend Development (Laravel)  
 - Frontend Development (React)
-- Design Patterns & Principles  
 
 ### Interests
 - Linux ([Zorin OS](https://zorin.com/os/) / [Arch Linux](https://archlinux.org/))  
-- Knowledge management systems
-- Internet minimalism & privacy
+- Personal knowledge management ([Building a Second Brain](https://www.buildingasecondbrain.com/) / [AnyType](https://github.com/anyproto/anytype-ts))
+- Internet minimalism & privacy ([Privacy Guides](https://www.privacyguides.org/en/))
 
 ### Featured Projects
 
