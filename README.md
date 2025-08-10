@@ -1,5 +1,3 @@
-My name is Shane, I'm an incoming BSIT student at Bulacan State University in the Philippines 🇵🇭.
-
 ### Currently Learning
 - Object-Oriented Programming (Java)
 - Java Swing GUI Development
