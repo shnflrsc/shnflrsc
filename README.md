@@ -1,11 +1,10 @@
 ### Currently Learning
 - Object-Oriented Programming (Java)
 - Java Swing GUI Development
-- Backend Development (Laravel)  
-- Frontend Development (React)
+- Full Stack Development (SvelteKit)
 
 ### Interests
-- Linux ([Zorin OS](https://zorin.com/os/) / [Arch Linux](https://archlinux.org/))  
+- Linux ([Fedora Linux](https://fedoraproject.org/) / [Arch Linux](https://archlinux.org/))  
 - Personal knowledge management ([Building a Second Brain](https://www.buildingasecondbrain.com/) / [AnyType](https://github.com/anyproto/anytype-ts))
 - Internet minimalism & privacy ([Privacy Guides](https://www.privacyguides.org/en/))
 
@@ -17,3 +16,4 @@
 
 - [**sustainablecityproject**](https://github.com/shnflrsc/sustainablecityproject) Environmental awareness site using SvelteKit (high school project)
 - [**chimer-frontend**](https://github.com/shnflrsc/chimer-frontend), [**chimer-backend**](https://github.com/shnflrsc/chimer-backend) WIP Skyrim character build creator using Spring Boot and React
+- [**Dog Adoption System**](https://github.com/shnflrsc/dog-adoption-system) WIP Dog adoption system using Svelte
