@@ -15,5 +15,3 @@
 - [**HotelPosSystem**](https://github.com/shnflrsc/HotelPosSystem) Terminal-based Java hotel point-of-sale system
 
 - [**sustainablecityproject**](https://github.com/shnflrsc/sustainablecityproject) Environmental awareness site using SvelteKit (high school project)
-- [**chimer-frontend**](https://github.com/shnflrsc/chimer-frontend), [**chimer-backend**](https://github.com/shnflrsc/chimer-backend) WIP Skyrim character build creator using Spring Boot and React
-- [**Dog Adoption System**](https://github.com/shnflrsc/dog-adoption-system) WIP Dog adoption system using Svelte
