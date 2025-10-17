@@ -1,7 +1,7 @@
 ### Currently Learning
-- Object-Oriented Programming (Java)
-- Java Swing GUI Development
-- Full Stack Development (SvelteKit)
+- Backend Development
+- DevOps
+- Cloud Engineering
 
 ### Interests
 - Linux ([Fedora Linux](https://fedoraproject.org/) / [Arch Linux](https://archlinux.org/))  
